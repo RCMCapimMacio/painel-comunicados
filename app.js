@@ -1,4 +1,3 @@
-
 const comunicados = [
   {
     titulo: "Inadimplência de Taxa Condominial",
